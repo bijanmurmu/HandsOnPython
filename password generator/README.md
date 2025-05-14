@@ -23,4 +23,4 @@ A simple Python app using `tkinter` to generate strong passwords. Customize the 
 2. Download or clone this project.
 3. Run the script:
    ```bash
-   python password_generator.py
+   python password-generator.py
