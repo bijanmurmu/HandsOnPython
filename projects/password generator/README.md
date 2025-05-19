@@ -1,4 +1,4 @@
-# Password Generator App 🔐
+# Password Generator 🔐
 
 ## Overview
 A simple Python app using `tkinter` to generate strong passwords. Customize the password length and include special characters. You can also copy the generated password to your clipboard.
