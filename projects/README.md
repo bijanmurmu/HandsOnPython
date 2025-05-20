@@ -6,7 +6,7 @@ Welcome to the **projects** folder of the repository! This directory contains mu
 
 ## 🌟 Current Highlighted Projects:
 
-1. **[WeatherApp](https://github.com/bijanmurmu/HandsOnPython/tree/main/projects/WeatherApp)** - The Weather App is a simple Python command-line tool that fetches real-time weather information from Google using only the `requests` library.
+1. **[Weather App](https://github.com/bijanmurmu/HandsOnPython/tree/main/projects/WeatherApp)** - The Weather App is a simple Python command-line tool that fetches real-time weather information from Google using only the `requests` library.
 
 
 ---
